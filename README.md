@@ -21,6 +21,6 @@ The following pages will walk you through the steps of the project. At a high le
 * [Retail Scenario](./Retail_Scenario.ipynb)
 * [Transportation Scenario](./Transportation_Scenario.ipynb) 
 
----
+
 
 
