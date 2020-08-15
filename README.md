@@ -23,13 +23,4 @@ The following pages will walk you through the steps of the project. At a high le
 
 ---
 
-*If you faced any issues in building this project, feel free to ask me. Please do suggest new projects that you want me to do next.*
 
-*Share this video if you like.*
-
-*Portfolio - https://piyushjain.xyz
-
-*Github - https://github.com/piyush0511*
-
-
-**Thanks for reading!**
